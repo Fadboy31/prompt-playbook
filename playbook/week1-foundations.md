@@ -84,3 +84,28 @@ A token is a chunk of text (roughly 0.75 words) that AI uses to process input. F
 
 **Screenshot:**  
 ![Tokenizer Screenshot](images/Screenshot1.png)
+
+## First Real Prompt: Duka Bio
+
+### Weak Prompt
+Write a bio for Duka la Teknolojia.
+
+**AI Response:**  
+[Duka la Teknolojia – Kariakoo’s Tech Hub 🖥️📱
+Your one-stop shop for the latest gadgets, accessories, and tech solutions. From smartphones to computers, we bring quality, affordability, and expert advice under one roof. Visit us in Kariakoo and experience technology made simple!]
+
+---
+
+### Strong Prompt
+Write a 3-sentence Instagram bio for a tech accessories shop in Kariakoo, Dar es Salaam called 'Duka la Teknolojia'. The owner is Amina Hassan. Tone: friendly, modern, and trustworthy. The shop sells phones, chargers, and earphones. Include a call to action to DM for prices. Write in English with one Swahili phrase.
+
+**AI Response:**  
+[Tech gadgets & accessories in the heart of Kariakoo, Dar es Salaam 📍
+Phones, chargers & earphones – kila kitu cha tech under one roof! ⚡
+DM us for prices & let Amina Hassan help you pick the perfect gear 💬]
+
+---
+
+**Key Observations:**  
+- Weak prompt: Generic, lacks tone, no context, unclear call-to-action.  
+- Strong prompt: Personalized, clear, engaging, includes tone, length, context, and CTA.
