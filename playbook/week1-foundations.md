@@ -76,3 +76,11 @@ Best regards,
 3. **Length** – “under 150 words”  
 4. **Context** – “following up after a product demo we did last Thursday”  
 5. **CTA** – “schedule a 30-minute call this week”
+
+## Tokens & Context Windows
+
+**Learnings:**  
+A token is a chunk of text (roughly 0.75 words) that AI uses to process input. For example, the sentence "The quick brown fox" might be broken into 5 tokens: ["The", " quick", " brown", " fox"]. AI models have a maximum number of tokens they can process at once (context window). When a conversation exceeds this limit, the model starts forgetting the beginning of the discussion, which is why long chats or big documents need careful planning.
+
+**Screenshot:**  
+![Tokenizer Screenshot](images/Screenshot1.png)
