@@ -182,3 +182,20 @@ This prompt is clear, specific, and directly applicable to a real business use c
 It includes all key elements of a strong prompt: task, audience, tone, length, context, and a clear call-to-action, which results in a focused and high-quality response.
 
 ![Week 1 Best Prompt](screenshots/week1-best-prompt.png)
+
+## Week 1 Self-Assessment
+
+### Prompts I tested this week:
+8+
+
+### Biggest insight:
+The quality of AI output depends directly on how specific and structured the prompt is.
+
+### Most surprising AI behavior I observed:
+AI can confidently generate false information (hallucinations), especially when asked about unknown or unverifiable details like phone numbers or niche data.
+
+### One question I still have about AI:
+How can I structure prompts to minimize hallucinations when working with critical or factual information?
+
+### Prompt I’m most proud of:
+Write a 3-sentence Instagram bio for a tech accessories shop in Kariakoo, Dar es Salaam called 'Duka la Teknolojia'. The owner is Amina Hassan. Tone: friendly, modern, and trustworthy. The shop sells phones, chargers, and earphones. Include a call to action to DM for prices. Write in English with one Swahili phrase.
