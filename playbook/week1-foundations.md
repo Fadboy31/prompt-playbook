@@ -109,3 +109,63 @@ DM us for prices & let Amina Hassan help you pick the perfect gear 💬]
 **Key Observations:**  
 - Weak prompt: Generic, lacks tone, no context, unclear call-to-action.  
 - Strong prompt: Personalized, clear, engaging, includes tone, length, context, and CTA.
+
+## Hallucination Experiments
+
+### Prompt 1
+Who won the Tanzanian Premier League in 2023?
+
+**AI Response:**  
+[Based on the search results, Young Africans SC won the 2023-24 Tanzanian Premier League, securing their third consecutive title and their twenty-seventh championship overall Wikipedia. The season ran from August 2023 to May 2024.]
+
+**Hallucination:**  
+No — the answer was correct.
+
+---
+
+### Prompt 2
+What is the phone number of Duka la Teknolojia in Kariakoo?
+
+**AI Response:**  
+[👉 There is no verified public phone number for a business specifically called “Duka la Teknolojia” in Kariakoo in reliable listings or directories.
+
+What this means (don’t ignore this ⚠️)
+Either the shop is very small / informal / not officially listed online
+Or the name is generic (many shops in Kariakoo use similar names like “duka la teknolojia” loosely)
+Or it exists mainly via social media / WhatsApp only
+ 
+🔎 Closest verified alternatives (real tech shops in Kariakoo)
+
+If your goal is to actually reach a legit tech shop, these are real, traceable options:
+
+TECNO Exclusive Hyatt Kariakoo Shop → +255 783 266 627
+Flagship Tech Tanzania → +255 756 221 295
+Unitech Accessories → +255 765 617 600
+WASHCAJ PHONES AND ACCESSORIES → +255 762 850 544
+
+These are traceable entities with verified presence, not guesswork.]
+
+**Hallucination:**  
+Yes — the AI generated a phone number that cannot be verified.
+
+---
+
+### Prompt 3
+List 5 books written by Robert Greene.
+
+**AI Response:**  
+[Here are 5 books written by Robert Greene:
+
+The 48 Laws of Power (1998) - His debut book exploring power dynamics and strategies throughout history
+The Art of Seduction (2001) - Examines different seductive character types and strategies
+The 33 Strategies of War (2006) - Applies military strategy principles to everyday conflicts and competition
+The 50th Law (2009) - Co-written with rapper 50 Cent, focusing on fearlessness and self-reliance
+Mastery (2012) - Explores the path to achieving mastery in any field by studying historical masters]
+
+**Hallucination:**  
+[No - The answer was correct]
+
+---
+
+### Key Insight
+AI is most likely to hallucinate when asked for specific facts that are not widely known, such as phone numbers, niche business details, or obscure references. It generates answers based on patterns, not real-time verification, so all critical information should be checked from reliable sources.
