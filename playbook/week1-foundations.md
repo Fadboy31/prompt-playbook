@@ -169,3 +169,16 @@ Mastery (2012) - Explores the path to achieving mastery in any field by studying
 
 ### Key Insight
 AI is most likely to hallucinate when asked for specific facts that are not widely known, such as phone numbers, niche business details, or obscure references. It generates answers based on patterns, not real-time verification, so all critical information should be checked from reliable sources.
+
+## Best Prompt of the Week
+
+**Prompt:**  
+Write a 3-sentence Instagram bio for a tech accessories shop in Kariakoo, Dar es Salaam called 'Duka la Teknolojia'. The owner is Amina Hassan. Tone: friendly, modern, and trustworthy. The shop sells phones, chargers, and earphones. Include a call to action to DM for prices. Write in English with one Swahili phrase.
+
+**Why I Chose This:**  
+This prompt is clear, specific, and directly applicable to a real business use case.
+
+**What Made It Effective:**  
+It includes all key elements of a strong prompt: task, audience, tone, length, context, and a clear call-to-action, which results in a focused and high-quality response.
+
+![Week 1 Best Prompt](screenshots/week1-best-prompt.png)
