@@ -180,3 +180,38 @@ Best regards,
 Insight
 
 This template works because it replaces specific details with variables, making it reusable across different scenarios while maintaining structure, clarity, and consistent output quality.
+
+Cross-Tool Comparison
+Prompt Used
+
+You are a financial advisor speaking to a first-time saver in Tanzania. Explain the concept of compound interest in simple language with a concrete example using Tanzanian shillings. Format: 3 short paragraphs. Avoid financial jargon. End with one actionable tip.
+
+ChatGPT Response
+
+Compound interest is when the money you save earns interest, and then that interest also starts earning more interest over time. This helps your money grow faster compared to simple interest, where you only earn on the original amount.
+
+For example, if you save TZS 100,000 in a bank that gives 10% interest per year, after one year you will have TZS 110,000. In the second year, you earn interest on TZS 110,000 instead of just TZS 100,000, so your money grows even more.
+
+The longer you leave your money saved, the faster it grows because interest keeps building on itself.
+Tip: Start saving early, even small amounts, to take full advantage of compound growth.
+
+Claude Response
+
+Compound interest means your savings grow not only from the money you put in, but also from the interest your money earns over time. It’s like your money is working for you and increasing on its own.
+
+Imagine you save TZS 100,000 and earn 10% interest each year. After the first year, you have TZS 110,000. In the second year, you earn interest on the full TZS 110,000, not just your original savings, so your balance keeps increasing faster each year.
+
+Over time, this effect becomes more powerful, especially if you keep adding savings.
+Tip: Make it a habit to save regularly and avoid withdrawing your savings early.
+
+Which Response Was Better and Why
+
+ChatGPT’s response was slightly better because it followed the structure more clearly and explained the example in a more step-by-step way, making it easier for a beginner to understand.
+
+Key Differences Observed
+Tone: Both were simple, but ChatGPT felt slightly more instructional, while Claude felt more conversational.
+Detail: ChatGPT provided clearer step-by-step explanation; Claude was slightly more general.
+Structure: Both followed the 3-paragraph format, but ChatGPT separated ideas more cleanly.
+Preferred Tool Going Forward
+
+For this type of task (education and clear explanations), I would use ChatGPT because it provides more structured and beginner-friendly responses.
