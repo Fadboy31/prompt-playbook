@@ -139,3 +139,40 @@ Dar es Salaam]
 
 Diagnosis:
 No limits → response may be too long, include refunds, or drift from the intended tone and boundaries.
+
+## Reusable Template: Follow-Up Email
+Template
+Write a follow-up email to [CONTACT NAME] at [COMPANY] after [EVENT/MEETING] on [DATE/DAY]. Tone: [TONE]. Under [LENGTH] words. Call to action: [DESIRED NEXT STEP].
+
+Test Case 1
+
+Filled Prompt: Write a follow-up email to Brian Kimaro at SmartTech Solutions after a product demo on Monday. Tone: warm and professional. Under 120 words. Call to action: schedule a follow-up meeting this week.
+
+AI Response: Hi Brian,
+
+Thank you for taking the time to attend the product demo on Monday. I hope you found the session valuable and insightful.
+
+I’d love to continue the conversation and explore how we can support your needs further. Would you be available for a follow-up meeting this week?
+
+Looking forward to your response.
+
+Best regards,
+[Your Name]
+
+Test Case 2
+
+Filled Prompt:Write a follow-up email to Aisha Suleiman at Kariakoo Traders after a business meeting on Friday. Tone: friendly but confident. Under 100 words. Call to action: confirm interest in partnership.
+
+AI Response: Hi Aisha,
+
+It was great meeting you on Friday and discussing potential opportunities together. I really appreciated your insights and the direction your business is taking.
+
+I’d love to know if you’re interested in moving forward with the partnership we discussed. Please let me know your thoughts.
+
+Looking forward to hearing from you.
+
+Best regards,
+[Your Name]
+
+Key Insight
+Templates make prompts reusable and scalable by replacing fixed details with variables. This allows the same structure to be applied across multiple situations while maintaining consistency and quality of output.
