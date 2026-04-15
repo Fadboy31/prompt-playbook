@@ -141,18 +141,19 @@ Diagnosis:
 No limits → response may be too long, include refunds, or drift from the intended tone and boundaries.
 
 ## Reusable Template: Follow-Up Email
-Template
 Write a follow-up email to [CONTACT NAME] at [COMPANY] after [EVENT/MEETING] on [DATE/DAY]. Tone: [TONE]. Under [LENGTH] words. Call to action: [DESIRED NEXT STEP].
 
 Test Case 1
 
-Filled Prompt: Write a follow-up email to Brian Kimaro at SmartTech Solutions after a product demo on Monday. Tone: warm and professional. Under 120 words. Call to action: schedule a follow-up meeting this week.
+Filled Prompt:
+Write a follow-up email to John Mwakalinga at TechHub Tanzania after a product demo on Tuesday. Tone: warm but professional. Under 120 words. Call to action: schedule a call this week.
 
-AI Response: Hi Brian,
+AI Response:
+Hi John,
 
-Thank you for taking the time to attend the product demo on Monday. I hope you found the session valuable and insightful.
+Thank you for attending the product demo on Tuesday. I hope you found it insightful and relevant to your needs.
 
-I’d love to continue the conversation and explore how we can support your needs further. Would you be available for a follow-up meeting this week?
+I’d love to continue the conversation and explore how we can work together. Would you be available for a quick call this week?
 
 Looking forward to your response.
 
@@ -161,18 +162,21 @@ Best regards,
 
 Test Case 2
 
-Filled Prompt:Write a follow-up email to Aisha Suleiman at Kariakoo Traders after a business meeting on Friday. Tone: friendly but confident. Under 100 words. Call to action: confirm interest in partnership.
+Filled Prompt:
+Write a follow-up email to Neema Joseph at Kariakoo Electronics after a business meeting on Friday. Tone: friendly and confident. Under 100 words. Call to action: confirm interest in partnership.
 
-AI Response: Hi Aisha,
+AI Response:
+Hi Neema,
 
-It was great meeting you on Friday and discussing potential opportunities together. I really appreciated your insights and the direction your business is taking.
+It was great meeting you on Friday and discussing potential opportunities. I really enjoyed learning more about your business.
 
-I’d love to know if you’re interested in moving forward with the partnership we discussed. Please let me know your thoughts.
+I’d love to know if you’re interested in moving forward with the partnership we discussed. Please share your thoughts when convenient.
 
 Looking forward to hearing from you.
 
 Best regards,
 [Your Name]
 
-Key Insight
-Templates make prompts reusable and scalable by replacing fixed details with variables. This allows the same structure to be applied across multiple situations while maintaining consistency and quality of output.
+Insight
+
+This template works because it replaces specific details with variables, making it reusable across different scenarios while maintaining structure, clarity, and consistent output quality.
