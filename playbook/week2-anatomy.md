@@ -181,7 +181,7 @@ Insight
 
 This template works because it replaces specific details with variables, making it reusable across different scenarios while maintaining structure, clarity, and consistent output quality.
 
-Cross-Tool Comparison
+## Cross-Tool Comparison
 Prompt Used
 
 You are a financial advisor speaking to a first-time saver in Tanzania. Explain the concept of compound interest in simple language with a concrete example using Tanzanian shillings. Format: 3 short paragraphs. Avoid financial jargon. End with one actionable tip.
@@ -206,12 +206,12 @@ Tip: Make it a habit to save regularly and avoid withdrawing your savings early.
 
 Which Response Was Better and Why
 
-ChatGPT’s response was slightly better because it followed the structure more clearly and explained the example in a more step-by-step way, making it easier for a beginner to understand.
+ChatGPT’s response was better because it explained the example more clearly step-by-step, making it easier for a beginner to understand how compound interest grows over time.
 
 Key Differences Observed
-Tone: Both were simple, but ChatGPT felt slightly more instructional, while Claude felt more conversational.
-Detail: ChatGPT provided clearer step-by-step explanation; Claude was slightly more general.
-Structure: Both followed the 3-paragraph format, but ChatGPT separated ideas more cleanly.
+Tone: ChatGPT was more instructional, while Claude was more conversational.
+Detail: ChatGPT gave clearer explanation of how the numbers grow each year; Claude was slightly more general.
+Structure: Both followed the format, but ChatGPT separated ideas more clearly.
 Preferred Tool Going Forward
 
-For this type of task (education and clear explanations), I would use ChatGPT because it provides more structured and beginner-friendly responses.
+For this type of task, I would use ChatGPT because it produces clearer, more structured explanations that are easier for beginners to follow.
