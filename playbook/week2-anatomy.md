@@ -215,3 +215,60 @@ Structure: Both followed the format, but ChatGPT separated ideas more clearly.
 Preferred Tool Going Forward
 
 For this type of task, I would use ChatGPT because it produces clearer, more structured explanations that are easier for beginners to follow.
+
+##My 3 Full-Formula Prompts
+Scenario A — Duka Sale Message
+
+Prompt:
+
+Task: Write a WhatsApp message announcing a weekend sale on phone accessories.
+
+Context: The business is 'Duka la Teknolojia' in Kariakoo, Dar es Salaam, owned by Amina. The target audience is regular customers who buy phones, chargers, and earphones.
+
+Format: Short WhatsApp message (3–4 lines).
+
+Constraints: Friendly and exciting tone, include a call to action to visit the shop this weekend, mention discounts, and include one Swahili phrase.
+
+AI Response:
+
+Hello! 🎉
+Duka la Teknolojia is having a weekend sale on all phone accessories — chargers, earphones, and more at discounted prices!
+Usikose fursa hii — visit us this weekend in Kariakoo and grab your deal.
+Karibu sana! 😊
+
+Scenario B — CV Gap Explanation
+
+Prompt:
+
+Task: Write a paragraph explaining a 6-month gap in a CV.
+
+Context: The gap was used for personal development, learning digital skills, and planning career direction. This will be included in a cover letter for a job application.
+
+Format: One professional paragraph.
+
+Constraints: Honest, confident tone, no apology, focus on growth and skills gained, keep it concise.
+
+AI Response:
+
+During the past six months, I took intentional time to focus on personal and professional development. I invested this period in building digital skills, exploring career direction, and strengthening my ability to contribute effectively in a fast-paced work environment. This experience has given me greater clarity, discipline, and readiness to add value in my next role.
+
+Scenario C — Learning Mobile Networks
+
+Prompt:
+
+Task: Explain how mobile data networks (3G, 4G, 5G) work.
+
+Context: The explanation is for someone with no technical background in Tanzania who uses mobile internet daily.
+
+Format: 3 short paragraphs.
+
+Constraints: Use simple language, avoid technical jargon, include relatable examples, keep it easy to understand.
+
+AI Response:
+
+Mobile data networks like 3G, 4G, and 5G are systems that allow your phone to connect to the internet without Wi-Fi. They work through nearby towers that send and receive signals to your phone so you can browse, stream, or chat online.
+
+3G was the first to make internet on phones usable, but it is slower. 4G is much faster and allows smooth video streaming and faster downloads. 5G is the newest and fastest, designed for very quick speeds and better performance even when many people are connected.
+
+Think of it like roads: 3G is a small road, 4G is a highway, and 5G is an express superhighway.
+As networks improve, your internet becomes faster and more reliable.
